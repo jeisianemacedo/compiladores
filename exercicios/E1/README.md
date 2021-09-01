@@ -1,6 +1,10 @@
 # E1 - Exercício (individual)
 
-## Aspectos Léxicos
+Implemente um analisador léxico chamado de "_e1_" para a linguagem [E1](#aspectos-lexicos), usando a ferramenta Flex.
+Considere os arquivos _e1.l_ e _e1.y_ como ponto de partida para resolver este exercício.
+
+
+## Aspectos Lexicos
 
 1. Palavras-chave (_keywords_)
 
@@ -42,3 +46,7 @@ As palavras-chave são reservadas e devem ser escritas em letras minúsculas.
 5. Comentários de uma linha apenas
 
 Comentários de uma linha (_single-line comments_), iniciados por "//".
+
+## Exemplo de um programa em na linguagem E1
+
+
