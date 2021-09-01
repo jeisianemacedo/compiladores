@@ -6,6 +6,8 @@ Material e código-fonte relacionados ao curso de Compiladores da UFBA.
 
 ## Atividades
 
-+ [Exercícios](exercicios)
-+ [Trabalho Prático](trabalho-pratico)
 + [Especificações](especificacao)
++ Entregas
+  + [Exercícios](exercicios)
+  + [Trabalho Prático](trabalho-pratico)
+
