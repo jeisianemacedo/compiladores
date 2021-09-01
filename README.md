@@ -8,4 +8,4 @@ Material e código-fonte relacionados ao curso de Compiladores da UFBA.
 
 + [Exercícios](exercicios)
 + [Trabalho Prático](trabalho-pratico)
-+ [Especificações](especificacoes)
++ [Especificações](especificacao)
