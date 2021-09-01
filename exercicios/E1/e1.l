@@ -1,12 +1,13 @@
-// diretivas 
-/* ... 
+/* 
+ * Template para programa flex.
+ * Autora: Christina von Flach
+ */
 
-*/
+%option noyywrap nodefault
 
 %{
-
-#include // ... vem do bison
-
+#include "e1.tab.h"
+void yyerror(char *s);
 %}
 
 %%
