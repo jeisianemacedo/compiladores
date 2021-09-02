@@ -81,7 +81,7 @@ cc -o e1 lex.yy.c e1.tab.c
 ```
 
 __ATENÇÃO__: o arquivo exemplo.out colocado na pasta mostra a saída 
-que deverá ser retornada pelo analisador léxico _completo_ e funcional.
+ retornada pelo analisador léxico ainda _incompleto_.
 
 
 
