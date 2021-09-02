@@ -1,8 +1,16 @@
 # Especificações
 
-+ [Exercicios](exercicios)
-  + E1 - Exercício 1
-+ [Trabalho Prático](trabalho-pratico)
-  + T1 - Analisador Léxico
+## Exercícios
 
++ [E1](E1)
++ E2
++ E3
++ E4
+
+## Trabalho Prático
+
++ T1 - Analisador Léxico
++ T2
++ T3
++ T4
 
