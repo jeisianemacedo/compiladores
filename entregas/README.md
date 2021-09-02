@@ -1,1 +1,4 @@
 # Entregas
+
+  + Exercícios
+  + Trabalho Prático
