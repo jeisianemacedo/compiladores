@@ -12,8 +12,6 @@ Material e código-fonte relacionados ao curso de Compiladores da UFBA.
   * [Calendário da UFBA](#calend-rio-da-ufba)
   * [Plano de Aulas (pode sofrer ajustes)](#plano-de-aulas--pode-sofrer-ajustes-)
   * [Leituras](#leituras)
-    + [Leituras essenciais (reproduzido do texto original de](#leituras-essenciais--reproduzido-do-texto-original-de)
-    + [Leituras de primavera](#leituras-de-primavera)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
